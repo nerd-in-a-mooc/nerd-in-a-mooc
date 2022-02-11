@@ -1,0 +1,5 @@
+- 👋 Hi, we're @nerd-in-a-mooc
+- 👀 We're interested in stuff.
+- 🌱 We're currently learning things.
+- 💞️ I’m looking to collaborate on sh*ts.
+- 📫 How to reach us ?
